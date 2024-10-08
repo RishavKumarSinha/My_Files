@@ -1,5 +1,5 @@
 # My_Files
-A File Management App created as part of my GDSC Flutter Forward Extended Event.
+A File Management App created as part of my GDG on Campus Flutter Forward Extended Event.
 
 ## UI
 As part of the Project, I have tried to replicate the Figma UI Design file given. 
